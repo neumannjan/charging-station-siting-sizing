@@ -1,3 +1,5 @@
 # Optimal Charging Station Siting and Sizing For Corporate Electric Vehicle Fleets
 
-Additional info will be added until 26th May 2021.
+Code repository for my bachelor's thesis, available here:
+
+https://dspace.cvut.cz/handle/10467/94649
